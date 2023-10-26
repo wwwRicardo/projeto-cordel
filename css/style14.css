@@ -20,6 +20,7 @@ html,
 body {
     min-height: 100vh;
     background-color: lightgray;
+    overflow-x: hidden;
 }
 
 header {
@@ -75,7 +76,7 @@ section.imagem {
     color: white;
     background-size: cover;
     background-position: right center;
-    background-attachment: fixed;
+    background-attachment: scroll;
     box-shadow: inset 7px 7px 6px 0px #00000057;
 }
 

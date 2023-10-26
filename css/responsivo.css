@@ -2,6 +2,6 @@
 
 @media (min-width: 1025px) {
     section.imagem {
-        background-attachment: scroll;
+        background-attachment: fixed;
     }
 }
